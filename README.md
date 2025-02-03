@@ -13,3 +13,7 @@ Google Chrome Version 120+ (Ensure that Chrome is installed and set as the defau
 - **Full Disk Access** must be granted to Terminal or Script Editor:
   - **System Settings → Privacy & Security → Full Disk Access**  
   - Enable **Terminal** and **Script Editor** 
+### Charles Proxy
+- **Version 4.76 or later** *(Ensure Charles is installed and running before executing the script.)*
+- Download: [Charles Proxy Official Website](https://www.charlesproxy.com/download/latest-release/)
+- Allow Charles to intercept SSL traffic (`Help → SSL Proxying → Install Charles Root Certificate`)

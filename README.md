@@ -17,3 +17,6 @@ Google Chrome Version 120+ (Ensure that Chrome is installed and set as the defau
 - **Version 4.76 or later** *(Ensure Charles is installed and running before executing the script.)*
 - Download: [Charles Proxy Official Website](https://www.charlesproxy.com/download/latest-release/)
 - Allow Charles to intercept SSL traffic (`Help → SSL Proxying → Install Charles Root Certificate`)
+
+### Other required
+Don't forget to login your ChatGPT account!😊

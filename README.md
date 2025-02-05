@@ -22,7 +22,7 @@ Don't forget to login your ChatGPT account!😊
 ## Let's get started with GPTs-Filtor!! 🚀🚀🚀
 ### Quick Start
 ```bash
-osascript gpts_interaction_script.scpt
+osascript /path/to/gpts_interaction_script.scpt
 ```
 ### Step 1: Specify GPT URLs
 - Open the `GPTs-Filtor/GPTs.txt` file.

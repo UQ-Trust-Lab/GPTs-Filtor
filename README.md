@@ -36,7 +36,7 @@ osascript /path/to/gpts_interaction_script.scpt
 - The script will randomly pick from these test cases during execution.
 
 
-### Step 3: Modify Test Prompts
+### Step 3: Capture network traffic packets
 - Run Charles Proxy.
 - Select `auto save` under the `Tool`.
 <img src="https://github.com/UQ-Trust-Lab/GPTs-Filtor/blob/main/assets/tool.png" width="300px">

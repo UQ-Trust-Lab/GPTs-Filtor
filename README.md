@@ -39,13 +39,13 @@ osascript /path/to/gpts_interaction_script.scpt
 ### Step 3: Capture network traffic packets
 - Run Charles Proxy.
 - Select `Auto Save` under the `Tools`.
-<img src="https://github.com/UQ-Trust-Lab/GPTs-Filtor/blob/main/assets/tool.png" width="300px">
+- <img src="https://github.com/UQ-Trust-Lab/GPTs-Filtor/blob/main/assets/tool.png" width="300px">
 - Turn the `auto-save` option on, select the appropriate save interval, specify the correct save path and save data type (json format is recommended).
-<img src="https://github.com/UQ-Trust-Lab/GPTs-Filtor/blob/main/assets/auto_save.png" width="300px">
+- <img src="https://github.com/UQ-Trust-Lab/GPTs-Filtor/blob/main/assets/auto_save.png" width="300px">
 - Select `Recording Settings` under the `Proxy`.
-<img src="https://github.com/UQ-Trust-Lab/GPTs-Filtor/blob/main/assets/proxy.png" width="300px">
+- <img src="https://github.com/UQ-Trust-Lab/GPTs-Filtor/blob/main/assets/proxy.png" width="300px">
 - Put `chatgpt.com` in `host` and `/backend-api/conversation` in `path` under the `include` option.
-<img src="https://github.com/UQ-Trust-Lab/GPTs-Filtor/blob/main/assets/gpt_conversation.png" width="300px"> 
+- <img src="https://github.com/UQ-Trust-Lab/GPTs-Filtor/blob/main/assets/gpt_conversation.png" width="300px"> 
 
 ## Notes
 - The script allows for multiple interactions per experiment.

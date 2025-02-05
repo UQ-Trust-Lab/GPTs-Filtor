@@ -21,6 +21,9 @@ Don't forget to login your ChatGPT account!😊
 
 ## Let's get started with GPTs-Filtor!! 🚀🚀🚀
 ### Quick Start
+```bash
+osascript gpts_interaction_script.scpt
+```
 ### Step 1: Specify GPT URLs
 - Open the `GPTs-Filtor/GPTs.txt` file.
 - Add the GPT URLs you wish to test. Each URL should be on a new line.

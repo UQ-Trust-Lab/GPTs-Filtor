@@ -24,7 +24,7 @@ Don't forget to login your ChatGPT account!😊
 ```bash
 osascript /path/to/gpts_interaction_script.scpt
 ```
-### Step 1: Specify GPT URLs
+### Step 1: Specify GPTs URLs
 - Open the `GPTs-Filtor/GPTs.txt` file.
 - Add the GPT URLs you wish to test. Each URL should be on a new line.
   *Note: Three example URLs have already been provided in `GPTs.txt`.*

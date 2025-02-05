@@ -33,8 +33,12 @@ osascript /path/to/gpts_interaction_script.scpt
 - Navigate to `GPTs-Filtor/gpts_interaction_script`.
 - Locate the `sentenceList` variable.
 - Modify the prompts to the ones you want to test.
-- The script will randomly pick from these test cases during execution.
+- The script will randomly pick from these test cases during execution.![Uploading 截屏2025-02-05 下午2.50.32.png…]()
 
+
+### Step 3: Modify Test Prompts
+- Run Charles Proxy
+- 
 ## Notes
 - The script allows for multiple interactions per experiment.
 - If changes are needed, only update the values of each `keystroke`.

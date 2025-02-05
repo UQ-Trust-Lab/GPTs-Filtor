@@ -37,9 +37,11 @@ osascript /path/to/gpts_interaction_script.scpt
 
 
 ### Step 3: Modify Test Prompts
-- Run Charles Proxy
+- Run Charles Proxy.
 - Select `auto save` under the `Tool`.
 <img src="https://github.com/UQ-Trust-Lab/GPTs-Filtor/blob/main/assets/tool.png" width="300px">
+- Turn the auto-save option on, select the appropriate save interval, specify the correct save path and save data type (json format is recommended)
+<img src="https://github.com/UQ-Trust-Lab/GPTs-Filtor/blob/main/assets/auto_save.png" width="300px">
 ## Notes
 - The script allows for multiple interactions per experiment.
 - If changes are needed, only update the values of each `keystroke`.
